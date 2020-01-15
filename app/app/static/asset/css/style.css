@@ -1,0 +1,44 @@
+
+
+
+
+
+/* Media Query Settings Here */
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    
+ }
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+ }
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+
+    .icon-style{
+        height: 50px;
+        width: 50px;
+        background: #fff;
+        box-shadow: 0px 0px 5px 1px #d9d9d9;
+        padding: 2px 5px;
+        border-radius: 50%;
+        margin-right: 8px;
+        color: #00BCD5;
+        display: inline;
+    
+    }
+    
+
+ }
+
+
